@@ -1,0 +1,6 @@
+{
+  "name": "The Talent Master Institute",
+  "description": "Professional educational institute in Kotri, Jamshoro offering English language courses, LAT & GAT preparation, CIT/DIT, coaching classes, tuition, and university entrance test preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
